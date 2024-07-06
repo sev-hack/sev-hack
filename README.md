@@ -7,6 +7,7 @@
 💥 **Certificates:** OSCP (November 2021)
 
 💢 **CVEs**:
+- [CVE-2024-6095](https://huntr.com/bounties/4799262d-72dc-43c8-bc99-81d0dce996dc)
 - [CVE-2024-4460](https://huntr.com/bounties/a387c935-b970-44d7-bddc-71c1c90aa2de)
 - [CVE-2024-5208](https://huntr.com/bounties/6c8bdfa1-ec56-4b02-bde9-cfc27470e6ca)
 - [CVE-2024-4680](https://huntr.com/bounties/c88f6bd2-490d-4930-98dd-03651b20230a)
